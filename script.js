@@ -17,3 +17,5 @@ document.querySelector('.check').addEventListener('click', function () {
     console.log(document.querySelector('.message').textContent = '🙈 No Guess!');
   }
 })
+
+console.log('helloworld')
